@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mudpole
+* source:	https://sketchfab.com/3d-models/mudpole-b268a5ad9abf4bdb82c8d7f32b3bd11d
+* author:	iggymodels (https://sketchfab.com/iggymodels)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mudpole" (https://sketchfab.com/3d-models/mudpole-b268a5ad9abf4bdb82c8d7f32b3bd11d) by iggymodels (https://sketchfab.com/iggymodels) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
